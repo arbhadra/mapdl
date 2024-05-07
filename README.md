@@ -1,4 +1,4 @@
-# mapdl
+# Ansys Mechanical APDL
 Course materials from the free course- "Introduction to Ansys APDL Scripting" by ALH
 
 Course Description:
